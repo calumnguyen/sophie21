@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "sophie127797jkjshds_secureKey",
+  "db": "mongodb+srv://admin-calum:QPE9xzsiYfExnWy4@drops.aqp0q.mongodb.net/sophie21?retryWrites=true&w=majority",
+  "port": "3001",
+  "requiresAuth": true
+}
