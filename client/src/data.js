@@ -52,9 +52,9 @@ function chillHop() {
       artist: 'TO: Sophie',
       cover:
         'https://res.cloudinary.com/calumnguyen/image/upload/v1609717711/corriesoph_ud16pt.png',
-      color: ['#a6a9b6', '#eff8ffc'],
+      color: ['#fa7f72', '#ebebeb'],
       audio:
-        'https://res.cloudinary.com/calumnguyen/video/upload/v1609717597/CorrieAudio_t7qouu.mp3',
+        'https://res.cloudinary.com/calumnguyen/image/upload/v1609717711/corriesoph_ud16pt.png',
       active: false,
     },
     {
