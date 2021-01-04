@@ -57,6 +57,17 @@ function chillHop() {
         'https://res.cloudinary.com/calumnguyen/video/upload/v1609717597/CorrieAudio_t7qouu.mp3',
       active: false,
     },
+    {
+      id: uuidv4(),
+      name: 'FROM: Alexandria',
+      artist: 'TO: Sophie',
+      cover:
+        'https://res.cloudinary.com/calumnguyen/image/upload/v1609717711/corriesoph_ud16pt.png',
+      color: ['#00917c', '#fde8cd'],
+      audio:
+        'https://res.cloudinary.com/calumnguyen/video/upload/v1609733635/AlexandriaAudio_tuzdgs.mp3',
+      active: false,
+    },
   ];
 }
 

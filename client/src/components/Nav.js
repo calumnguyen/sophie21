@@ -24,7 +24,7 @@ const Nav = ({ libraryStatus, setLibraryStatus, currentSong }) => {
           cursor: 'default',
         }}
       >
-        {user ? `Hello ${user.name} 🎊` : ''}
+        {user ? `Happy 21 ${user.name} 🎊` : ''}
       </h4>
       <button onClick={() => setLibraryStatus(!libraryStatus)}>
         Library
