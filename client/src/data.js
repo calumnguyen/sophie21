@@ -103,6 +103,17 @@ function chillHop() {
     },
     {
       id: uuidv4(),
+      name: 'FROM: Aviva, Barend, David and Hanna',
+      artist: 'TO: Sophie',
+      cover:
+        'https://res.cloudinary.com/calumnguyen/image/upload/v1609835912/aviva_mm9bzw.png',
+      color: ['#a3ddcb', '#fde8cd'],
+      audio:
+        'https://res.cloudinary.com/calumnguyen/video/upload/v1609836692/avivaaudio_a4wphj.mp3',
+      active: false,
+    },
+    {
+      id: uuidv4(),
       name: 'FROM: Alexandria',
       artist: 'TO: Sophie',
       cover:
