@@ -70,6 +70,39 @@ function chillHop() {
     },
     {
       id: uuidv4(),
+      name: 'FROM: Fergus',
+      artist: 'TO: Sophie',
+      cover:
+        'https://res.cloudinary.com/calumnguyen/image/upload/v1609827216/NolanSOph_q5bp3d.png',
+      color: ['#70af85', '#c6ebc9'],
+      audio:
+        'https://res.cloudinary.com/calumnguyen/video/upload/v1609828425/FergusAudio_dbwgll.mp3',
+      active: false,
+    },
+    {
+      id: uuidv4(),
+      name: 'FROM: Sarah',
+      artist: 'TO: Sophie',
+      cover:
+        'https://res.cloudinary.com/calumnguyen/image/upload/v1609827216/SarahSoph_eevdpg.png',
+      color: ['#ea97ad', '#f3f2da'],
+      audio:
+        'https://res.cloudinary.com/calumnguyen/video/upload/v1609828424/SarahAudio_mflo0c.mp3',
+      active: false,
+    },
+    {
+      id: uuidv4(),
+      name: 'FROM: Siobhan',
+      artist: 'TO: Sophie',
+      cover:
+        'https://res.cloudinary.com/calumnguyen/image/upload/v1609827054/siobhanSoph_yc5nzp.png',
+      color: ['#00917c', '#fde8cd'],
+      audio:
+        'https://res.cloudinary.com/calumnguyen/video/upload/v1609827069/SiobhanAudio_ykuhu7.mp3',
+      active: false,
+    },
+    {
+      id: uuidv4(),
       name: 'FROM: Alexandria',
       artist: 'TO: Sophie',
       cover:
