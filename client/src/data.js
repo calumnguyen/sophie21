@@ -73,7 +73,7 @@ function chillHop() {
       name: 'FROM: Alexandria',
       artist: 'TO: Sophie',
       cover:
-        'https://res.cloudinary.com/calumnguyen/image/upload/v1609717711/corriesoph_ud16pt.png',
+        'https://res.cloudinary.com/calumnguyen/image/upload/v1609824351/Alexandria_kk7rqo.png',
       color: ['#00917c', '#fde8cd'],
       audio:
         'https://res.cloudinary.com/calumnguyen/video/upload/v1609733635/AlexandriaAudio_tuzdgs.mp3',
