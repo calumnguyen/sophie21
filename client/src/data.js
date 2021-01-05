@@ -90,6 +90,17 @@ function chillHop() {
         'https://res.cloudinary.com/calumnguyen/video/upload/v1609818677/RyanAudio_mdiftk.mp3',
       active: false,
     },
+    {
+      id: uuidv4(),
+      name: 'FROM: Beth',
+      artist: 'TO: Sophie',
+      cover:
+        'https://res.cloudinary.com/calumnguyen/image/upload/v1609821235/BethSoph_rrzemw.png',
+      color: ['#008891', '#e7e7de'],
+      audio:
+        'https://res.cloudinary.com/calumnguyen/video/upload/v1609822509/BethSoph_llpi25.mp3',
+      active: false,
+    },
   ];
 }
 
