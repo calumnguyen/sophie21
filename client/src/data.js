@@ -54,7 +54,18 @@ function chillHop() {
         'https://res.cloudinary.com/calumnguyen/image/upload/v1609717711/corriesoph_ud16pt.png',
       color: ['#fa7f72', '#ebebeb'],
       audio:
-        'https://res.cloudinary.com/calumnguyen/image/upload/v1609717711/corriesoph_ud16pt.png',
+        'https://res.cloudinary.com/calumnguyen/video/upload/v1609717597/CorrieAudio_t7qouu.mp3',
+      active: false,
+    },
+    {
+      id: uuidv4(),
+      name: 'FROM: Granny',
+      artist: 'TO: Sophie',
+      cover:
+        'https://res.cloudinary.com/calumnguyen/image/upload/v1609819028/SusanSoph_ohusab.png',
+      color: ['#6f9eaf', '#d4e2d4'],
+      audio:
+        'https://res.cloudinary.com/calumnguyen/video/upload/v1609820086/GrannyAudio_tyjavj.mp3',
       active: false,
     },
     {
@@ -66,6 +77,17 @@ function chillHop() {
       color: ['#00917c', '#fde8cd'],
       audio:
         'https://res.cloudinary.com/calumnguyen/video/upload/v1609733635/AlexandriaAudio_tuzdgs.mp3',
+      active: false,
+    },
+    {
+      id: uuidv4(),
+      name: 'FROM: Ryan',
+      artist: 'TO: Sophie',
+      cover:
+        'https://res.cloudinary.com/calumnguyen/image/upload/v1609818763/RyanSoph_iyymq0.png',
+      color: ['#a685e2', '#ffe6e6'],
+      audio:
+        'https://res.cloudinary.com/calumnguyen/video/upload/v1609818677/RyanAudio_mdiftk.mp3',
       active: false,
     },
   ];
